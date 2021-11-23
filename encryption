@@ -1,0 +1,13 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+int x;
+cout<<"enter the number"<<x<<endl;
+cin>>x;
+int y;
+y==x*x;
+cout<<" encryption is ="<<y<<endl;
+getch();
+}
